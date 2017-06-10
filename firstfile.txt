@@ -1,2 +1,3 @@
 this is the first file I created through GIT vi command
-I added this line from github
+
+partial added from gitbash etst
